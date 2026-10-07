@@ -1,0 +1,10 @@
+{
+  "before": {
+    "id": "e1",
+    "amount": 10
+  },
+  "after": {
+    "id": "e2",
+    "total": 10
+  }
+}
